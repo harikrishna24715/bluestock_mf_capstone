@@ -1,3 +1,4 @@
+
 # Bluestock Mutual Fund Analytics Capstone
 
 ## Day 1 Deliverables
@@ -12,3 +13,6 @@
 - Requests
 - Jupyter Notebook
 - Git/GitHub
+=======
+# bluestock_mf_capstone
+
